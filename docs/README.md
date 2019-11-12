@@ -20,7 +20,7 @@ O processo de Análise Braspag do Subordinado para Split de Pagamentos ocorre da
 
 ### Links
 
-- [Atendimento Braspag](#https://suporte.braspag.com.br/hc/pt-br/articles/360018451052-Como-abrir-um-ticket-para-o-time-de-suporte-do-Split-de-Pagamentos-)
+- [Atendimento Braspag](https://suporte.braspag.com.br/hc/pt-br/articles/360018451052-Como-abrir-um-ticket-para-o-time-de-suporte-do-Split-de-Pagamentos-)
 - [Cadastro do Subordinado](https://suporte.braspag.com.br/hc/pt-br/articles/360033735591-Processo-de-Cadastro-de-Subordinados)
 
 ### Instalação
